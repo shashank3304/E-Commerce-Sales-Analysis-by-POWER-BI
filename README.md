@@ -1,1 +1,2 @@
 # E-Commerce-Sales-Analysis-by-POWER-BI
+Created interactive dashboard to track and analyse data using Power Bi. Used complex parameter to drill down in worksheet and customization using filters and slicers. Created connection, join new table, calculationto manipulate data and enable user driven parameter for visualizations. Used different type of customized visualization (bar chart, donut chart, clustered bar chart, slicers, etc).
